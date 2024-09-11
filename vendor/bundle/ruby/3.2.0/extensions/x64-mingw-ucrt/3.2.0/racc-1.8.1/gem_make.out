@@ -1,0 +1,23 @@
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240911-12548-4sxxf8 sitelibdir\=./.gem.20240911-12548-4sxxf8 clean
+bash.exe: warning: could not find /tmp, please create!
+
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240911-12548-4sxxf8 sitelibdir\=./.gem.20240911-12548-4sxxf8
+generating cparse-x64-mingw-ucrt.def
+bash.exe: warning: could not find /tmp, please create!
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240911-12548-4sxxf8 sitelibdir\=./.gem.20240911-12548-4sxxf8 install
+bash.exe: warning: could not find /tmp, please create!
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240911-12548-4sxxf8/racc
+
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240911-12548-4sxxf8 sitelibdir\=./.gem.20240911-12548-4sxxf8 clean
+bash.exe: warning: could not find /tmp, please create!

@@ -1,0 +1,18 @@
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/nio4r-2.7.3/ext/nio4r
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/nio4r-2.7.3/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240911-12548-navq2h sitelibdir\=./.gem.20240911-12548-navq2h clean
+make: *** ターゲット 'clean' を make するルールがありません.  中止.
+
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/nio4r-2.7.3/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240911-12548-navq2h sitelibdir\=./.gem.20240911-12548-navq2h
+make: 'all' に対して行うべき事はありません.
+
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/nio4r-2.7.3/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240911-12548-navq2h sitelibdir\=./.gem.20240911-12548-navq2h install
+make: 'install' に対して行うべき事はありません.
+
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/nio4r-2.7.3/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20240911-12548-navq2h sitelibdir\=./.gem.20240911-12548-navq2h clean
+make: *** ターゲット 'clean' を make するルールがありません.  中止.

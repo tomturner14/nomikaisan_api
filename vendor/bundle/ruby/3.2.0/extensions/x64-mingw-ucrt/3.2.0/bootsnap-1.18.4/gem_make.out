@@ -1,0 +1,26 @@
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+checking for fdatasync() in unistd.h... no
+checking for whether -O3 is accepted as CFLAGS... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240911-12548-8x0cfl sitelibdir\=./.gem.20240911-12548-8x0cfl clean
+bash.exe: warning: could not find /tmp, please create!
+
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240911-12548-8x0cfl sitelibdir\=./.gem.20240911-12548-8x0cfl
+generating bootsnap-x64-mingw-ucrt.def
+bash.exe: warning: could not find /tmp, please create!
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240911-12548-8x0cfl sitelibdir\=./.gem.20240911-12548-8x0cfl install
+bash.exe: warning: could not find /tmp, please create!
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20240911-12548-8x0cfl/bootsnap
+
+current directory: C:/Users/Tomohiro.Yamakawa/Desktop/dev/nomikaisan_api/vendor/bundle/ruby/3.2.0/gems/bootsnap-1.18.4/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20240911-12548-8x0cfl sitelibdir\=./.gem.20240911-12548-8x0cfl clean
+bash.exe: warning: could not find /tmp, please create!
