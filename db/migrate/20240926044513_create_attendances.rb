@@ -7,7 +7,6 @@ class CreateAttendances < ActiveRecord::Migration[7.0]
       t.text :comment
       t.timestamps
 
-      # 外部キー制約を追加
       t.foreign_key :event_dates, column: :event_date_id
       t.foreign_key :participants, column: :participant_id
     end
