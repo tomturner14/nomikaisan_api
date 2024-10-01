@@ -17,6 +17,6 @@ test:
 production:
   <<: *default
   database: nomikaisan_production
-  username: <%= ENV['TOMOHIRO YAMAKAWA'] %>
-  password: <%= ENV['8Makawa8'] %>
-  host: <%= ENV['']
+  username: <%= ENV['DATABASE_USERNAME'] %>
+  password: <%= ENV['DATABASE_PASSWORD'] %>
+  host: <%= ENV['DATABASE_HOST'] %>
