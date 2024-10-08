@@ -3,8 +3,9 @@ default: &default
   encoding: utf8mb4
   pool: <%= ENV.fetch("RAILS_MAX_THREADS") { 5 } %>
   username: root
-  password: 8Makawa8
-  host: localhost
+  password: 0Y4BfYkzJdac9ZLTl0jh
+  host: nomikaisan-db.cbow2w4wi3hv.ap-northeast-1.rds.amazonaws.com
+  port: 3306
 
 development:
   <<: *default
@@ -18,4 +19,4 @@ production:
   <<: *default
   database: nomikaisan_production
   username: root
-  password: 8Makawa8
+  password: 0Y4BfYkzJdac9ZLTl0jh
