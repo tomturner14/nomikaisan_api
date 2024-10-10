@@ -40,7 +40,7 @@ group :development, :test do
   gem "debug", platforms: %i[ mri mingw x64_mingw ]
 
   # 環境変数を管理するためのdotenv-railsを追加
-  gem 'dotenv-rails'
+  gem 'dotenv-rails', groups: [:development, :test]
 end
 
 group :development do

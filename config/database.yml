@@ -17,6 +17,8 @@ test:
 
 production:
   <<: *default
-  database: nomikaisan_production
-  username: root
-  password: 0Y4BfYkzJdac9ZLTl0jh
+  database: <%= ENV['RDS_DB_NAME'] %>
+  username: <%= ENV['RDS_USERNAME'] %>
+  password: <%= ENV['RDS_PASSWORD'] %>
+  host: <%= ENV['RDS_HOST'] %>
+  port: 3306
